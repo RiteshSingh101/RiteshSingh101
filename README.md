@@ -1,92 +1,150 @@
-<h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Java Backend Developer | Hibernate | Spring Boot | MySQL
-</h3>
+# 🚀 Ritesh Singh
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Hibernate+%7C+Spring+Boot+Learner;Building+Projects+Everyday;Future+Startup+Founder" />
-</p>
+### Java Backend Developer • Hibernate • Spring Boot • MySQL
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Java+Backend+Developer;Building+Scalable+Backend+Systems;Spring+Boot+%7C+Hibernate+Developer;Future+Startup+Founder;Always+Learning+New+Technologies" />
 
-# 🚀 About Me
+<br>
 
-- 🌱 Currently learning **Advanced Java **
-- 💻 Building Backend & Full Stack Projects
-- 🎯 Goal: Build my own startup
-- ⚡ Interested in scalable backend systems
-- 🌐 Portfolio:  
-  https://portfolio-ljq7r2az5-ritesh-singhs-projects-8b50aa1d.vercel.app/
+<a href="https://github.com/RiteshSingh101">
+<img src="https://img.shields.io/github/followers/RiteshSingh101?style=for-the-badge&logo=github&color=black"/>
+</a>
 
-- 📫 Email:  
-  riteshsaud@gmail.com
+<a href="https://www.linkedin.com/in/ritesh-singh21">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 📱 Contact:  
-  +91 9136173644
+<a href="https://portfolio-ljq7r2az5-ritesh-singhs-projects-8b50aa1d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=RiteshSingh101&style=for-the-badge&color=blue"/>
 
-# 🛠️ Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+</div>
 
 ---
 
-## Backend
+# 💫 About Me
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+```java
+class RiteshSingh {
 
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
+    String role = "Java Backend Developer";
 
-![JDBC](https://img.shields.io/badge/JDBC-red?style=for-the-badge)
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "JDBC",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    };
+
+    String currentFocus = "Advanced Java & Backend Engineering";
+
+    String goal = "Building My Own Startup";
+
+}
+```
 
 ---
 
-## Database
+# ⚡ Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<div align="center">
 
----
+### 👨‍💻 Languages
 
-# 📊 GitHub Stats
-
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshSingh101&show_icons=true&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
 ---
 
-# 🔥 GitHub Streak
+### 🚀 Backend Technologies
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshSingh101&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge"/>
 
 ---
 
-# 🌐 Connect With Me
+### 🛠️ Tools
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RiteshSingh101)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritesh-singh21)
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://portfolio-ljq7r2az5-ritesh-singhs-projects-8b50aa1d.vercel.app/)
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiteshSingh101&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSingh101&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshSingh101&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-- 🏦 ATM Simulator
-- 👨‍💼 Employee Payroll System
-- 🌐 Personal Portfolio Website
-- ☕ Hibernate CRUD Operations
-- 🔗 HTTP Servlet Basic Projects
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🏦 ATM Simulator | Banking operations system using Java |
+| 👨‍💼 Employee Payroll System | Payroll management backend application |
+| ☕ Hibernate CRUD | Hibernate ORM operations project |
+| 🌐 Portfolio Website | Personal responsive portfolio |
+| 🔗 HTTP Servlet Basics | Java Servlet fundamentals project |
+
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=RiteshSingh101&color=blue)
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:riteshsaud@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ritesh-singh21">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/RiteshSingh101">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-ljq7r2az5-ritesh-singhs-projects-8b50aa1d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 “First, solve the problem. Then, write the code.”
+
+</div>
